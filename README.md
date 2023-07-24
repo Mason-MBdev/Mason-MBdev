@@ -1,4 +1,4 @@
-Hi, I'm a second year student at Wilfrid Laurier Univeristy
+Hi, I'm a second year student at Wilfrid Laurier Univeristy <br>
 I am currently learning HTML to try and make a website portfolio to showcase my schoolwork and projects
 
 <!--
