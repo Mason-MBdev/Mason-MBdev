@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi, I'm a second year student at Wilfrid Laurier Univeristy
+I am currently learning HTML to try and make a website portfolio to showcase my schoolwork and projects
 
 <!--
 **Mason-MBdev/Mason-MBdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
