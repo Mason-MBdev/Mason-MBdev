@@ -1,5 +1,5 @@
 Hi, I'm a second year student at Wilfrid Laurier Univeristy <br>
-My current project is to code a website portfolio from scratch to showcase my schoolwork and projects<br>
+My current project is to code a website portfolio from scratch in order to showcase my schoolwork and projects<br>
 Please excuse how weirdly coded the website is for now, I only started learning HTML and CSS a couple days ago
 
 <!--
