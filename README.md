@@ -1,5 +1,6 @@
 Hi, I'm a second year student at Wilfrid Laurier Univeristy <br>
-I am currently learning HTML to try and make a website portfolio to showcase my schoolwork and projects
+I am currently learning HTML to try and make a website portfolio to showcase my schoolwork and projects <br>
+Please excuse how weirdly coded the website is, I only started learning HTML a couple days ago
 
 <!--
 **Mason-MBdev/Mason-MBdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
