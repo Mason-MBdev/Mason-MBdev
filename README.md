@@ -1,12 +1,13 @@
-Hey there, check out my pinned projects if you want to see what I can do<br>
+Hey there, check out my pinned projects if you want to see what I've done throughout University<br>
+Or take a look at my in-progress personal projects below
 
 Current Projects:<br>
 Website Portfolio
 
 Learning:
-HTML,
-CSS,
-C,
+HTML, 
+CSS, 
+C, 
 Java
 
 Aug 22nd - JUST PASSED DATA STRUCTURES WOOOOOOOOOO LETS GOOOOO
