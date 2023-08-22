@@ -10,7 +10,7 @@ Always Learning:<br>
 Python, Java, HTML, CSS, C
 
 
-Aug 22nd - JUST PASSED DATA STRUCTURES WOOOOOOOOOO LETS GOOOOO
+Aug 22nd - Just passed Data Structures I c:
 
 <!--
 **Mason-MBdev/Mason-MBdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
