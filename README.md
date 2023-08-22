@@ -1,5 +1,13 @@
 Hi, I'm a second year student at Wilfrid Laurier Univeristy <br>
-My current project is to code a website portfolio from scratch in order to showcase my schoolwork and projects<br>
+
+Current Projects:
+Website Portfolio
+
+Learning:
+HTML
+CSS
+C
+Java
 
 Aug 22nd - JUST PASSED DATA STRUCTURES WOOOOOOOOOO LETS GOOOOO
 
