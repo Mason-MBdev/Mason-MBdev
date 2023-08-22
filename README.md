@@ -4,7 +4,8 @@ Hey there, check out my pinned repositories for my latest personal projects and 
 Current Projects:<br>
 Website Portfolio
 
-Learning:
+Always Learning:
+Python,
 HTML, 
 CSS, 
 C, 
