@@ -1,12 +1,12 @@
 Hi, I'm a second year student at Wilfrid Laurier Univeristy <br>
 
-Current Projects:
+Current Projects:<br>
 Website Portfolio
 
 Learning:
-HTML
-CSS
-C
+HTML,
+CSS,
+C,
 Java
 
 Aug 22nd - JUST PASSED DATA STRUCTURES WOOOOOOOOOO LETS GOOOOO
