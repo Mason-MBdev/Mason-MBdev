@@ -1,5 +1,5 @@
 Hey there, check out my pinned projects if you want to see what I've done throughout University<br>
-Or take a look at my in-progress personal projects below
+Or take a look at my personal projects (more coming soon)
 
 Current Projects:<br>
 Website Portfolio
