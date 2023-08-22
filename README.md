@@ -5,11 +5,8 @@ Current Projects:<br>
 Website Portfolio
 
 Always Learning:
-Python,
-HTML, 
-CSS, 
-C, 
-Java
+python, java, html, css, c
+ 
 
 Aug 22nd - JUST PASSED DATA STRUCTURES WOOOOOOOOOO LETS GOOOOO
 
