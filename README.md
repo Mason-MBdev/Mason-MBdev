@@ -1,5 +1,5 @@
-Hey there, check out my pinned projects if you want to see what I've done throughout University<br>
- as well as my personal projects (more coming soon)
+Hey there, check out my pinned repositories for my latest personal projects and university coursework
+
 
 Current Projects:<br>
 Website Portfolio
