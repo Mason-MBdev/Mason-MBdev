@@ -1,4 +1,4 @@
-Hi, I'm a second year student at Wilfrid Laurier Univeristy <br>
+Hey there, check out my projects or my classwork if you want to see what I can do<br>
 
 Current Projects:<br>
 Website Portfolio
