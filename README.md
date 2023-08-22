@@ -2,11 +2,12 @@ Hey there, check out my pinned repositories for my latest personal projects and 
 
 
 Current Projects:<br>
-Website Portfolio, Data Structure Visualizer
+1 - Website Portfolio<br> 
+2 - Data Structure Visualizer
 
 
 Always Learning:<br>
-python, java, html, css, c
+Python, Java, HTML, CSS, C
 
 
 Aug 22nd - JUST PASSED DATA STRUCTURES WOOOOOOOOOO LETS GOOOOO
