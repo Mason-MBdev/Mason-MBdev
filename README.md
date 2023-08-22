@@ -1,4 +1,4 @@
-Hey there, check out my projects or my classwork if you want to see what I can do<br>
+Hey there, check out my pinned projects if you want to see what I can do<br>
 
 Current Projects:<br>
 Website Portfolio
