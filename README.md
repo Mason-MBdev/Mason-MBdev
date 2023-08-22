@@ -2,7 +2,7 @@ Hey there, check out my pinned repositories for my latest personal projects and 
 
 
 Current Projects:<br>
-Website Portfolio
+Website Portfolio, Data Structure Visualizer
 
 Always Learning:
 python, java, html, css, c
