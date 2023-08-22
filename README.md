@@ -4,9 +4,10 @@ Hey there, check out my pinned repositories for my latest personal projects and 
 Current Projects:<br>
 Website Portfolio, Data Structure Visualizer
 
-Always Learning:
+
+Always Learning:<br>
 python, java, html, css, c
- 
+
 
 Aug 22nd - JUST PASSED DATA STRUCTURES WOOOOOOOOOO LETS GOOOOO
 
