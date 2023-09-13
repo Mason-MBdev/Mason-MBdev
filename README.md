@@ -1,4 +1,4 @@
-Hey there, check out my pinned repositories for my latest personal projects and university coursework
+Hey there, check out my pinned repositories for my latest personal projects
 
 
 Current Projects:<br>
