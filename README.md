@@ -1,4 +1,4 @@
-Hey there I'm currently focusing on school, peronal projects are on hold
+Hey there, I'm currently focusing on school, so peronal projects are on hold
 
 
 Current Projects:<br>
