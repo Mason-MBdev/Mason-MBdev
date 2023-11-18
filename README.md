@@ -1,4 +1,4 @@
-Hey there, check out my pinned repositories for my latest personal projects
+Hey there I'm currently focusing on school, peronal projects are on hold
 
 
 Current Projects:<br>
@@ -10,7 +10,6 @@ Always Learning:<br>
 Python, Java, HTML, CSS, C
 
 
-Aug 22nd - Just passed Data Structures I c:
 
 <!--
 **Mason-MBdev/Mason-MBdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
