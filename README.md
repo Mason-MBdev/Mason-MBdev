@@ -3,12 +3,12 @@ Hey there, I'm currently focusing on school, so peronal projects are on hold
 
 Current Projects:<br>
 1 - Website Portfolio<br> 
-2 - Godot Game Development
+2 - Godot Game Development<br>
 3 - Data Structure Visualizer
 
 
 Practicing:<br>
-Python, Java, HTML, CSS, 
+C, Python, Java, HTML, CSS
 
 
 
