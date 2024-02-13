@@ -9,7 +9,7 @@ Hi there, My name is Mason, a committed software dev at Wilfrid Laurier Universi
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mason-MBdev&theme=dark&hide_border=false)<br/>
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mason-MBdev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mason-MBdev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Mason-MBdev)
 
 
 ---
