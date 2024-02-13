@@ -1,4 +1,4 @@
-# About Me:
+# About:
 Hi there, My name is Mason, a committed software dev at Wilfrid Laurier University.<br>I'm currently focusing on passing my midterms, but stay tuned for projects being completed and avalible soon.
 
 ## Social:
