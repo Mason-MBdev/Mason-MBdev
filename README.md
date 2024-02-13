@@ -9,7 +9,7 @@ Hi there, My name is Mason, a committed software dev at Wilfrid Laurier Universi
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mason-MBdev&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Mason-MBdev/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mason-MBdev&icon=2&color=6)](https://visitcount.itsvg.in)
