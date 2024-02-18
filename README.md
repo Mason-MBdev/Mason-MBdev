@@ -11,9 +11,7 @@ Hi there, My name is Mason, a committed software dev at Wilfrid Laurier Universi
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mason-MBdev&theme=dark&hide_border=false)<br/>
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Mason-MBdev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Mason-MBdev)
 ---
-[![](https://visitcount.itsvg.in/api?id=Mason-MBdev&icon=2&color=6)](https://visitcount.itsvg.in)
 [![BuyMeACoffeee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mbdev) 
 
   
