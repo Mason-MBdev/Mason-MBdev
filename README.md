@@ -1,5 +1,5 @@
 # About:
-Hi there, My name is Mason, a committed software dev at Wilfrid Laurier University.<br> Stay tuned for projects being completed and available soon.
+Hi there, My name is Mason, I code stuff that works sometimes.
 
 ### [Check out my website for more info!!](https://mbdev.ca/)
 
