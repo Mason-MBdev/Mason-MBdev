@@ -1,7 +1,7 @@
 ## About Me:
 Hi there, My name is Mason, I code stuff that works sometimes.
 
-### [Check out my website for more info!!](https://mbdev.ca/)
+### [Check out my website for more info](https://mbdev.ca/)
 
 
 ## 🌐 Contact:
