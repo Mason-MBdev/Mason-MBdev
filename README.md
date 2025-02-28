@@ -49,4 +49,4 @@ Enjoyer of ML & AI, and web development.
 
 📩 **Email:** [mason.barney@mbdev.ca](mailto:mason.barney@mbdev.ca)
 
-🌐 **Portfolio contact:** [mbdev.ca](https://mbdev.ca/contact)
+🌐 **Portfolio contact:** [mbdev.ca/contact](https://mbdev.ca/contact)
