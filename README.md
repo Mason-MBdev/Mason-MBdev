@@ -1,5 +1,5 @@
 # Hi, I'm Mason. 
-A **Computer Scientist** specializing in **development** and **systems design**.
+A Computer Scientist specializing in **development** and **systems design**.
 Enjoyer of ML & AI, and web development.
 
 **My Website**: [mbdev.ca](https://mbdev.ca/)
