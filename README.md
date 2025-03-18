@@ -39,7 +39,7 @@ Enjoyer of ML & AI, and web development.
 
 ## What I'm Learning
 
-- **DSA in C**
+- **DSA**
 - **Docker**
 - **Cybersecurity**
 
