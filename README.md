@@ -1,12 +1,11 @@
 # Hi, I'm Mason. 
-A Computer Scientist specializing in **development** and **systems design**.
-Enjoyer of ML & AI, and web development.
+Student of Computer Science. Enjoyer of Automation, Web, Algorithms, and Systems Design.
 
 **My Website**: [mbdev.ca](https://mbdev.ca/)
 
 ---
 
-## Skills
+## Specialties
 
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
