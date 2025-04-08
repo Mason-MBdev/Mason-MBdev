@@ -34,4 +34,4 @@ Enjoyer of The Web, Automation, Algorithms, and Systems.
 
 📩 **Email:** [mason.barney@mbdev.ca](mailto:mason.barney@mbdev.ca)
 
-🌐 **Portfolio contact:** [mbdev.ca/contact](https://mbdev.ca/contact)
+🌐 **Contact:** [mbdev.ca/contact](https://mbdev.ca/contact)
