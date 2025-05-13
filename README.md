@@ -1,7 +1,7 @@
 # Hi, I'm Mason. 
-Student of Computer Science.
+Computer Science Student.
 
-Enjoyer of The Web, Automation, Algorithms, and Systems.
+Enjoyer of Automation, Algorithms, and Systems.
 
 **My Website**: [mbdev.ca](https://mbdev.ca/)
 
