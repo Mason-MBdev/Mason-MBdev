@@ -1,5 +1,5 @@
 # Hi, I'm Mason. 
-Computer Science Student.
+Computer Science Undergrad.
 
 Enjoyer of Automation, Algorithms, and Systems.
 
